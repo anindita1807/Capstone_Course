@@ -1,0 +1,1 @@
+Recursion: a function callign itself until you hget the final result
